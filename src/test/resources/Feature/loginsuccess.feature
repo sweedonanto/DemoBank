@@ -12,6 +12,5 @@ Feature: Test login functionality
     Examples:
     |username|password|
     |mngr308726|Yduzypy|
-   |mngr308726|Yduz|
    
    

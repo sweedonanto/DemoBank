@@ -9,6 +9,6 @@ import io.cucumber.junit.Cucumber;
 glue= {"StepDefiniton"},
 monochrome=true,
 plugin = {"pretty", "html:target/GuruBank"})
-public class TestRunner {
-
+public class  TestRunner {
+	
 }
